@@ -1,8 +1,9 @@
-{
-  "version": "0.1",
-  "releaseDate": "2026-07-08",
-  "name": "lvyehudong.com website",
-  "notes": [
-    "Initial standalone website release for lvyehudong.com."
-  ]
+﻿{
+    "releaseDate":  "2026-07-09",
+    "name":  "lvyehudong.com website",
+    "version":  "0.2",
+    "notes":  [
+                  "Updated homepage product mockup labels and service stats copy.",
+                  "Adjusted product mockup floating pill placement to avoid overlap."
+              ]
 }
